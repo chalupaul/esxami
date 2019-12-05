@@ -2,7 +2,7 @@
     "variables": {
         "vm_name": "esxi67_x64", 
         "iso_url": "esxi67_x64.iso", 
-        "save_to_filename": "images/esxi6_7",
+        "save_to_filename": "output/esxi6_7",
         "disk_size": "8192", 
         "guest_os_type": "vmkernel65", 
         "iso_checksum": "fcbaa4cd952abd9e629fb131b8f46a949844405d8976372e7e5b55917623fbe0", 
