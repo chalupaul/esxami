@@ -1,0 +1,4 @@
+packer_cache/
+images/
+output/
+esxi67_x64.iso
